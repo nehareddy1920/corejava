@@ -27,5 +27,6 @@ public class Person {
 		return "Person [name=" + name + ", income=" + income + ", tax=" + tax + "]";
 	}
 	
+		
+		}
 
-}
