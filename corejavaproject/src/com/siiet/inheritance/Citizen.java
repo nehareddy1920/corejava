@@ -15,6 +15,10 @@ public class Citizen {
 		this.phoneno=phoneno;
 		
 	}
+	public Citizen() {
+	}
+	
+	
 
 
 	public String getName() {
